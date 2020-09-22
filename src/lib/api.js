@@ -15,7 +15,6 @@ export const searchFunction = userInput => {
   return axios.get(`${baseUrl}/search/movie?api_key=${token}&query=${userInput}`)
 }
 
-
 export const getRandomFilm = randomFilmId => {
   return axios.get(`${baseUrl}/movie/${randomFilmId}?api_key=5adb5c242d8f7268a630ecc811e49a81&language=en-US`)
 }
