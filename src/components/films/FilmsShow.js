@@ -34,7 +34,11 @@ class FilmShow extends Component {
     const { film } = this.state
     if ( !film ) {
       return (
-        <h4 className="title is-4 has-text-centered">INVALID ID</h4>
+        <div>
+          {/* <h4 className="title is-4 has-text-centered">ERROR 404</h4> */}
+          <h4 className="title is-1 has-text-centered">ERROR 404</h4>
+          <h2 className="title is-1 has-text-centered">Page not found</h2>
+        </div>
       )
     }
     return (
