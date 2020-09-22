@@ -1,10 +1,7 @@
 import axios from 'axios'
 
 const baseUrl = 'https://api.themoviedb.org/3'
-const token = '5adb5c242d8f7268a630ecc811e49a81'
-// const corsUrl = 'https://cors-anywhere.herokuapp.com'
-// const baseUrl2 = 'https://api.themoviedb.org/3'
-
+const token = process.env.REACT_APP_KEY
 
 export const getAllFilms = currentPage => {
   return axios.get(`${baseUrl}/discover/movie?api_key=${token}&language=en-US&sort_by=release_date.desc&include_adult=false&include_video=false&page=${currentPage}&vote_count.gte=100&vote_average.gte=8`)
