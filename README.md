@@ -1,9 +1,37 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA London React Template
+# SEI Project Two: A General Assembly of Films
 
-`yarn start` to run the development server
+## TLDR
 
-`yarn build` to create a build directory
+- **Project Duration** - 2 Days
+- **App** - Film Index
+- **Technologies Used** - React, HTML5, Sass, Bulma, Axios, React-Router-Dom
+- **Developer Tools** - VSCode, Eslint, Git, Github
+- **Teammates** - Pair Project
+____
 
+### Brief
+- Provide a platform for users to search through a database of films
+- Utilises a database provided by TMDB -
+https://www.themoviedb.org/documentation/api
+- Utilises Axios for GET requests from the database
+- Randomise function for user to randomly select a film from the database
+- Pagination functionality for user to look through the multi-hundered thousand item database
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+____
 
+# Abstract: Inital Thoughts and Project Overview
+
+Under considerable time pressure due to the project duration being 2 days, my partner and I had to quickly find an API online that could provide the nessessary data for us to create a usable product.
+
+After scouring through websites with lists of APIs, some of which were working but alot were not - we discovered TMDB (https://www.themoviedb.org/)
+
+TMDB had extensive documentation which helped us a lot when figuring out how to the database is organised and how we can access the necessary parts to create a working product.  
+
+# Final Product Examples
+
+## Example 1 - Full film index
+![filmindex](src\read-me-images\filmindex.jpg)
+## Example 2 - Post search function
+![filmindex](src\read-me-images\filmsearch.jpg)
+## Example 3 - More details
+![filmindex](src\read-me-images\filmshow.png)
