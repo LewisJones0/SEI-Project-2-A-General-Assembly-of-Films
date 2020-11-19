@@ -30,8 +30,8 @@ TMDB had extensive documentation which helped us a lot when figuring out how to 
 # Final Product Examples
 
 ## Example 1 - Full film index
-![filmindex](src\read-me-images\filmindex.jpg)
+ ![filmindex](src\read-me-images\filmindex.jpg)
 ## Example 2 - Post search function
-![filmsearch](src\read-me-images\filmsearch.jpg)
+ ![filmsearch](src\read-me-images\filmsearch.jpg)
 ## Example 3 - More details
-![filmshow](src\read-me-images\filmshow.png)
+ ![filmshow](src\read-me-images\filmshow.png)
