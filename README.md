@@ -50,11 +50,6 @@ For myself personally, the biggest win was the search functonality. The search f
 
 To get around this issue, we developed a solution to pull the text that was in the text box inside SearchBar.js into the parent JS file. This solution to the search functionality taught me alot about how data flows between files in react. 
 
-  onClickHandler = async(userInput) => {
-    const response = await searchFunction(userInput)
-    this.setState({
-      films: response.data.results
-    })
-  } 
+ ![searchBarCode](/src/read-me-images/codeExample.png)
 
 ____
