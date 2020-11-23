@@ -26,18 +26,6 @@ While under considerable time pressure due to the project duration being 2 days,
 After scouring through websites with lists of APIs, some of which were working but alot were not - we discovered TMDB (https://www.themoviedb.org/)
 
 TMDB had extensive documentation which helped us a lot when figuring out how to the database is organised and how we can access the necessary parts to create a working product.  
-
-____
-
-# Final Product Examples
-
-## Example 1 - Full film index
- ![filmindex](/src/read-me-images/filmindex.jpg)
-## Example 2 - Post search function
- ![filmsearch](/src/read-me-images/filmsearch.jpg)
-## Example 3 - More details
- ![filmshow](/src/read-me-images/filmshow.png)
-
 ____
 
 # Successes, Challenges and Bugs
@@ -51,5 +39,16 @@ For myself personally, the biggest win was the search functonality. The search f
 To get around this issue, we developed a solution to pull the text that was in the text box inside SearchBar.js into the parent JS file. This solution to the search functionality taught me alot about how data flows between files in react. 
 
  ![searchBarCode](/src/read-me-images/codeExample.png)
+
+____
+
+# Final Product Examples
+
+## Example 1 - Full film index
+ ![filmindex](/src/read-me-images/filmindex.jpg)
+## Example 2 - Post search function
+ ![filmsearch](/src/read-me-images/filmsearch.jpg)
+## Example 3 - More details
+ ![filmshow](/src/read-me-images/filmshow.png)
 
 ____
