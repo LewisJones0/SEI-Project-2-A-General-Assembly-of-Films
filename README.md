@@ -6,7 +6,7 @@
 - **App** - Film Index
 - **Technologies Used** - React, HTML5, Sass, Bulma, Axios, React-Router-Dom
 - **Developer Tools** - VSCode, Eslint, Git, Github
-- **Teammates** - Pair Project
+- **Teammates** - Paired Project ([Natalie Hurst-Knight](https://github.com/nhurstknight/ and myself)
 ____
 
 ### Brief
