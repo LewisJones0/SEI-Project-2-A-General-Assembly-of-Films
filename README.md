@@ -69,7 +69,7 @@ ____
 ## Code Examples
 
 ### Example 1: Film Index Functions
- ![filmindexFunctions](/src/read-me-images/filmIndexFunction.png)
+ ![filmindexFunctions](/src/read-me-images/FilmIndexFunction.png)
 
  ### Example 2: Film Index Render
- ![FilmIndexRender](/src/read-me-images/filmIndexsRender.png)
+ ![FilmIndexRender](/src/read-me-images/FilmIndexsRender.png)
