@@ -43,14 +43,22 @@ To get around this issue, we developed a solution to pull the text that was in t
  ![searchBarCode](/src/read-me-images/searchBarCode.png)
 ____
 
-# Final Product Examples
+# Final Product Examples and Code Examples
 
-## Example 1 - Full film index
+## Front End Examples
+
+### Example 1: Full film index
  ![filmindex](/src/read-me-images/filmindex.jpg)
-## Example 2 - Post search function
+### Example 2: Post search function
  ![filmsearch](/src/read-me-images/filmsearch.jpg)
-## Example 3 - More details
+### Example 3: More details
  ![filmshow](/src/read-me-images/filmshow.png)
 
 ____
-# Code Examples
+## Code Examples
+
+### Example 1: Film Index Functions
+ ![FilmIndexFunctions](/src/read-me-images/filmIndexFunctions.png)
+
+ ### Example 2: Film Index Render
+ ![FilmIndexRender](/src/read-me-images/filmIndexRender.png)
