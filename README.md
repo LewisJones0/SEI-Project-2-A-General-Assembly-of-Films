@@ -43,6 +43,17 @@ To get around this issue, we developed a solution to pull the text that was in t
  ![searchBarCode](/src/read-me-images/searchBarCode.png)
 ____
 
+## Key Learnings 
+1. Pair programming helps develop and tone programming skills - increases articulation skills as well as increases the projects ability to spot problems early.
+2. When using a third party API - much research is needed to make sure the API is healthy and is able to product the product the developers need.
+3. Some roadblockers may appear that were unforeseen - Natalie and I had a huge problem when dealing with the type of data that the API was giving us. We fixed this through pagination. A fix that took took alot of time as we did not plan to have it before the project began.
+
+## Future Features
+1. Adding a filtration system - this filter system should be able to do a API call for genres that the user wants to see
+2. True randomisation - the current randomisation function just serves a number between 1-1000 and does a API based upon it. A better feature should have a random number between the length of the database, and if the API call is empty, re-run the function.
+___________
+
+
 # Final Product Examples and Code Examples
 
 ## Front End Examples
